@@ -1,0 +1,23 @@
+html, body {
+  background: rgb(52, 58, 64);
+  color: rgb(0, 123, 255);
+  font-family: 'Open Sans';
+  font-style: sans-serif;
+}
+
+.dark {
+  background: rgb(26, 26, 26);
+}
+
+.outputGene {
+  color: white;
+  background: rgb(52, 58, 64)
+}
+
+.white {
+  color: white;
+}
+
+h5 {
+  margin-bottom: 0;
+}
