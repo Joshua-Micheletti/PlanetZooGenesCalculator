@@ -18,17 +18,17 @@ html, body {
   color: white;
 }
 
+@media (max-width: 1200px) {
+  .responsiveInput {
+    padding-left: 5px;
+    padding-right: 5px;
+  }
 
-.responsiveInput {
-  padding-left: 5px;
-  padding-right: 5px;
+  .responsivePerc {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
 }
-
-.responsivePerc {
-  padding-left: 0px;
-  padding-right: 0px;
-}
-
 
 
 h5 {
