@@ -30,6 +30,12 @@ html, body {
   }
 }
 
+@media (max-width: 400px) {
+  .inputs {
+    font-size: 0.65rem;
+  }
+}
+
 
 h5 {
   margin-bottom: 0;
