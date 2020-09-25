@@ -34,6 +34,18 @@ html, body {
   .inputs {
     font-size: 0.65rem;
   }
+
+  .responsivePerc {
+    font-size: 0.7rem;
+  }
+
+  .outputGene {
+    font-size: 0.7rem;
+  }
+
+  .inputPerc {
+    font-size: 1.0rem;
+  }
 }
 
 
